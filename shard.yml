@@ -8,3 +8,5 @@ authors:
   - Stefan Merettig <stefan-merettig@nuriaproject.org>
 
 license: MPL-2
+
+crystal: ">= 0.35.1, < 2.0.0"
